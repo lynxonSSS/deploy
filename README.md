@@ -18,3 +18,6 @@ Options:
 -p                 Specify the port to be killed.<br/>
 -c                 Specify the command to be executed on the root directory specified.<br/>
 -g                 Specify if git is configured or if pull is required.<br/>
+
+# How to install? 
+Clone or download the repository. Keep the contents into a directory and then add environment variable PATH as */deploy/bin
