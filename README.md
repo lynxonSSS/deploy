@@ -1,5 +1,5 @@
 # deploy
-The deployer shell file is an executable file that can be used by anyone to execute or deploy any project. Thus making the tedious process of pulling from git / Killing the port / going to the path are skipped for smooth deployment.
+The deployer shell file is an executable file that can be used by anyone to execute or deploy any project or any application. Thus making the tedious process of pulling from git / Killing the port / going to the path are skipped for smooth deployment.
 
 # Help
 This tool helps in single command deloyment for any kind of technology.
